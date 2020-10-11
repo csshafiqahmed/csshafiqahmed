@@ -59,7 +59,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Switch Statement in Java](https://www.codestown.com/switch-statement-in-java/)
+- [Came To Know 50 Reserved words In Java](https://www.codestown.com/came-to-know-50-reserved-words-in-java/)
+- [Did You Know 5 Basic Types Of  Operators In Java ??](https://www.codestown.com/did-you-know-5-basic-types-of-operators-in-java/)
+- [Essential Concepts About Classes in Java](https://www.codestown.com/essential-concepts-about-classes-in-java/)
+- [Java Regular Expressions Explained in Best Way](https://www.codestown.com/java-regular-expressions-explained-in-best-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.codestown.com)
