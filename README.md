@@ -68,8 +68,12 @@
 ➡️ [more blog posts...](https://www.codestown.com)
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=csshafiqahmed&show_icons=true&hide_border=true" />
 
+</details>
 
 [website]: https://www.codestown.com
 [twitter]: https://twitter.com/csshafiqahmed
