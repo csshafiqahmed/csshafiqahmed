@@ -93,7 +93,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.csshafiqahmed.vercel.app/api?username=csshafiqahmed&show_icons=true&hide_border=true" />
 
 </details>
-[website]: https://www.codestown.com/
+
+
+[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/csshafiqahmed
 [youtube]: https://www.youtube.com/c/CodesTown/
 [instagram]: https://www.instagram.com/codestownofficial/
