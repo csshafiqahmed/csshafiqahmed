@@ -1,6 +1,6 @@
 ### Hi there, I'm Shafiq Ahmed - aka [CodesTown][website] 👋 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.codestown.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/csshafiqahmed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcsshafiqahmed&screen_name=csshafiqahmed)
 
 ## I'm a Teacher, Developer, and Technical Writer!!
