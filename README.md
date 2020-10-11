@@ -49,6 +49,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Edit Text in Android? | How to add Edit Text? | How to get text from Edit Text | CodesTown](https://www.youtube.com/watch?v=unlB--uGoY8)
+- [What is OnClickListener? | How to Add on Click Listener in Android | Android Development Series](https://www.youtube.com/watch?v=hTJ3jlejcZk)
+- [Pass by Value and Pass by Reference in C++ | Hindi / Urdu | With Examples](https://www.youtube.com/watch?v=qrwQM16q180)
+- [Multiple Inheritance in c++ with example programs | Hindi / Urdu | Multiple Inheritance?](https://www.youtube.com/watch?v=tc1prtTANC8)
+- [What is Linear Search? | linear search example in data structure | Urdu / Hindi](https://www.youtube.com/watch?v=RU98-vt2qIg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/CodesTown)
