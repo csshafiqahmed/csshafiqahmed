@@ -1,17 +1,14 @@
-### Hi there, I'm Shafiq Ahmed - aka [CodesTown][website] 👋 👋
-
-[![Website](https://img.shields.io/website?label=codestown.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.codestown.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/csshafiqahmed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcsshafiqahmed&screen_name=csshafiqahmed)
+### Hi there, I'm Shafiq Ahmed  👋 👋
 
 ## I'm a Teacher, Developer, and Technical Writer!!
 
-- 🔭 I’m currently working on CodesTown.
-- 🌱 I’m currently learning Java & PHP.
+- 🔭 I’m currently working on Ecommerce Website using MERN Stack.
+- 🌱 I’m currently learning NodeJs.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with RankEngine.
-- 💬 Ask me about Android or any Tech related stuff.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I do coding contineous 12 hours straight.
+- 🤔 I’m looking for help in finding a new job.
+- 💬 Ask me about Web, Android or any Tech related stuff.
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I can code contineous 12 hours straight.
 
 ### Connect with me:
 
