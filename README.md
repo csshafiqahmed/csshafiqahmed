@@ -10,9 +10,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can code contineous 12 hours straight.
 
-### Connect with me:
-
-[<img align="left" alt="codestown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
