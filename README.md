@@ -12,11 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codestown.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codestown | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codestown | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codestown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codestown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
@@ -39,52 +35,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [What is Edit Text in Android? | How to add Edit Text? | How to get text from Edit Text | CodesTown](https://www.youtube.com/watch?v=unlB--uGoY8)
-- [What is OnClickListener? | How to Add on Click Listener in Android | Android Development Series](https://www.youtube.com/watch?v=hTJ3jlejcZk)
-- [Pass by Value and Pass by Reference in C++ | Hindi / Urdu | With Examples](https://www.youtube.com/watch?v=qrwQM16q180)
-- [Multiple Inheritance in c++ with example programs | Hindi / Urdu | Multiple Inheritance?](https://www.youtube.com/watch?v=tc1prtTANC8)
-- [What is Linear Search? | linear search example in data structure | Urdu / Hindi](https://www.youtube.com/watch?v=RU98-vt2qIg)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/CodesTown)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Switch Statement in Java](https://www.codestown.com/switch-statement-in-java/)
-- [Came To Know 50 Reserved words In Java](https://www.codestown.com/came-to-know-50-reserved-words-in-java/)
-- [Did You Know 5 Basic Types Of  Operators In Java ??](https://www.codestown.com/did-you-know-5-basic-types-of-operators-in-java/)
-- [Essential Concepts About Classes in Java](https://www.codestown.com/essential-concepts-about-classes-in-java/)
-- [Java Regular Expressions Explained in Best Way](https://www.codestown.com/java-regular-expressions-explained-in-best-way/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.codestown.com)
-
----
-
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=csshafiqahmed&show_icons=true&hide_border=true" />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csshafiqahmed)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📕 Latest GitHub Stats
-
-<!--START_SECTION:activity-->
-
-
-[website]: https://www.codestown.com
-[twitter]: https://twitter.com/csshafiqahmed
 [youtube]: https://www.youtube.com/c/CodesTown/
 [instagram]: https://www.instagram.com/codestownofficial/
 [linkedin]: https://linkedin.com/in/csshafiqahmed
