@@ -36,4 +36,4 @@
 
 
 ---
-![Shafiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=csshafiqahmed&show_icons=true)
+![Shafiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=csshafiqahmed&show_icons=true&theme=radical)
