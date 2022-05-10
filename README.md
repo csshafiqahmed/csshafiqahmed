@@ -33,7 +33,3 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-[youtube]: https://www.youtube.com/c/CodesTown/
-[instagram]: https://www.instagram.com/codestownofficial/
-[linkedin]: https://linkedin.com/in/csshafiqahmed
-[androidplaylist]: https://www.youtube.com/playlist?list=PLRj7eQZ8IybxLpxDPQ3O09kvQBOVPygsD
