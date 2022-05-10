@@ -41,4 +41,4 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csshafiqahmed&layout=compact)](https://github.com/csshafiqahmed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csshafiqahmed&layout=compact&theme=radical)](https://github.com/csshafiqahmed/github-readme-stats)
