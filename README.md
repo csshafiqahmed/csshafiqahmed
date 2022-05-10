@@ -37,3 +37,8 @@
 
 ---
 ![Shafiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=csshafiqahmed&show_icons=true&theme=radical)
+
+<br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csshafiqahmed&layout=compact)](https://github.com/csshafiqahmed/github-readme-stats)
